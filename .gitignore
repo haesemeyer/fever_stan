@@ -1,0 +1,15 @@
+/.idea/
+/__pycache__/
+*.nwb
+*.npy
+.DS_Store
+*.hpp
+*.json
+*.pdf
+*.h5
+*.hdf5
+*.xlsx
+*.pkl
+*.pk
+/models/*
+!/models/*.stan
